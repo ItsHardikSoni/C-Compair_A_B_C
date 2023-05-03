@@ -1,4 +1,6 @@
-/* Compair A, B, C Using (IF ELSE)*/
+//Compair A, B, C which is greater Using (IF ELSE)
+
+
 #include<stdio.h>
 #include<conio.h>
 void main()
